@@ -5,3 +5,5 @@ Pronouns: he/him.
 - I've worked as Junior Java Software Developer for 1 year 💻
 - Right now I'm learning SwiftUI and I'm loving it 🥰
 - Funfacts: I like to read fantasy books, learn japanese characters and watch football 😁
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kejlor)](https://github.com/anuraghazra/github-readme-stats)
