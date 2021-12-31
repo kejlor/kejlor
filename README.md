@@ -1,4 +1,4 @@
-!(https://github.com/kejlor/kejlor/blob/main/banner.png)
+![I am a Junior iOS Developer](banner.png)
 #### Junior iOS Developer
 - I'm from Poland 🇵🇱
 - I've worked as Junior Java Software Developer for 1 year 💻
