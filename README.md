@@ -1,5 +1,5 @@
-### Welcome 👋
-# About me:
+# Welcome 👋
+### About me:
 Pronouns: he/him.
 - My name is Bartosz and I'm from Poland 🇵🇱
 - I've worked as Junior Java Software Developer for 1 year 💻
