@@ -11,7 +11,7 @@ Skills: Swift / SwiftUI / Java / HTML / CSS
 - 🌱 I’m currently learning SwiftUI and Core Data. 
 - 😄 Pronouns: He/him. 
 
+### Stats
+![Kejlor's GitHub stats](https://github-readme-stats.vercel.app/api?username=kejlor&show_icons=true&theme=radical)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kejlor)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/kejlors)  
-
-
