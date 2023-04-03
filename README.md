@@ -66,4 +66,16 @@ Mangaka allows user to add manga volumes with such a information like: title, de
 - Core Data
 - MVVM-C
 
+### Twitter UI Clone
+I've created this simply project to try recreate Twitter user interface. I have not implemented any functionalities at this point. Project contains only view files such as components and screens.
+
+<p align="center">
+  <img src="https://github.com/kejlor/Mangaka/blob/main/Images/mangakaHome.png" width="300"/>
+  <img src="https://github.com/kejlor/Mangaka/blob/main/Images/addManga.gif" width="300">
+  <img src="https://github.com/kejlor/Mangaka/blob/main/Images/mangaEntry.gif" width="300">
+</p>
+
+**Stack**
+- SwiftUI
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kejlor)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/BartDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bartosz-wojtkowiak-7659311a3/)
