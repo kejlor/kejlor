@@ -20,7 +20,6 @@ Skills: Swift / SwiftUI / Java / HTML / CSS
 This is an app where you can browse for new recipes by category. Apart from that you can browse for your desired meal by name. If application wont't find your desired meal, you will get informed. 
 
 <p align="center">
-  <img src="https://github.com/kejlor/TastyRecipes/blob/main/Images/homeScreen.png" width="320" height="640"/>
   <img src="https://github.com/kejlor/TastyRecipes/blob/main/Images/browseMeals.gif">
   <img src="https://github.com/kejlor/TastyRecipes/blob/main/Images/getRandomMeal.gif">
   <img src="https://github.com/kejlor/TastyRecipes/blob/main/Images/searchForMeal.gif">
