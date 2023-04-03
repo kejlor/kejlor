@@ -50,4 +50,20 @@ The Flascards app has been made to ease process of learning for users. They have
 - MVVM
 - Singleton
 
+### Mangaka
+Mangaka allows user to add manga volumes with such a information like: title, description, favourite, image. Application helps with maintaining which volumes user already owns.
+
+<p align="center">
+  <img src="https://github.com/kejlor/Mangaka/blob/main/Images/mangakaHome.png" width="300"/>
+  <img src="https://github.com/kejlor/Mangaka/blob/main/Images/addManga.gif" width="300">
+  <img src="https://github.com/kejlor/Mangaka/blob/main/Images/mangaEntry.gif" width="300">
+</p>
+
+**Stack**
+- SwiftUI
+- UIKit
+- SFSymbols
+- Core Data
+- MVVM-C
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kejlor)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/BartDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bartosz-wojtkowiak-7659311a3/)
