@@ -73,7 +73,7 @@ I've created this simply project to try recreate Twitter user interface. I have 
   <img src="https://github.com/kejlor/TwitterUI/blob/main/Images/tweetDark.png" width="300"/>
   <img src="https://github.com/kejlor/TwitterUI/blob/main/Images/homeDark.png" width="300">
   <img src="https://github.com/kejlor/TwitterUI/blob/main/Images/messagesDark.png" width="300">
-  <img src="https://github.com/kejlor/TwitterUI/blob/main/Images/searchDark.png width="300">
+  <img src="https://github.com/kejlor/TwitterUI/blob/main/Images/searchDark.png" width="300">
 </p>
 
 **Stack**
