@@ -71,9 +71,10 @@ Mangaka allows user to add manga volumes with such a information like: title, de
 I've created this simply project to try recreate Twitter user interface. I have not implemented any functionalities at this point. Project contains only view files such as components and screens.
 
 <p align="center">
-  <img src="https://github.com/kejlor/Mangaka/blob/main/Images/mangakaHome.png" width="300"/>
-  <img src="https://github.com/kejlor/Mangaka/blob/main/Images/addManga.gif" width="300">
-  <img src="https://github.com/kejlor/Mangaka/blob/main/Images/mangaEntry.gif" width="300">
+  <img src="https://github.com/kejlor/TwitterUI/blob/main/Images/tweetDark.png" width="300"/>
+  <img src="https://github.com/kejlor/TwitterUI/blob/main/Images/homeDark.png" width="300">
+  <img src="https://github.com/kejlor/TwitterUI/blob/main/Images/messagesDark.png" width="300">
+  <img src="https://github.com/kejlor/TwitterUI/blob/main/Images/searchDark.png width="300">
 </p>
 
 **Stack**
