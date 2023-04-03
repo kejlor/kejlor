@@ -54,9 +54,10 @@ The Flascards app has been made to ease process of learning for users. They have
 Mangaka allows user to add manga volumes with such a information like: title, description, favourite, image. Application helps with maintaining which volumes user already owns.
 
 <p align="center">
-  <img src="https://github.com/kejlor/Mangaka/blob/main/Images/mangakaHome.png" width="300"/>
-  <img src="https://github.com/kejlor/Mangaka/blob/main/Images/addManga.gif" width="300">
-  <img src="https://github.com/kejlor/Mangaka/blob/main/Images/mangaEntry.gif" width="300">
+  <img src="https://github.com/kejlor/TwitterUI/blob/main/Images/homeDark.png" width="300"/>
+  <img src="https://github.com/kejlor/TwitterUI/blob/main/Images/messagesDark.png" width="300">
+  <img src="https://github.com/kejlor/TwitterUI/blob/main/Images/searchDark.png" width="300">
+  <img src="https://github.com/kejlor/TwitterUI/blob/main/Images/tweetDark.png" width="300">
 </p>
 
 **Stack**
