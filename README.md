@@ -79,4 +79,23 @@ I've created this simply project to try recreate Twitter user interface. I have 
 **Stack**
 - SwiftUI
 
+### PocketWeather
+Simple weather app avaiable all the times in your pocket. The app allows checking weather data based on city name. If the city's name isn't correct user
+will be notified about it.
+
+<p align="center">
+  <img src="https://github.com/kejlor/PocketWeather/blob/master/Images/home.png" width="300"/>
+  <img src="https://github.com/kejlor/PocketWeather/blob/master/Images/notification.png" width="300">
+  <img src="https://github.com/kejlor/PocketWeather/blob/master/Images/weatherApp.gif" width="300">
+  <img src="https://github.com/kejlor/PocketWeather/blob/master/Images/weatherView.png" width="300">
+  <img src="https://github.com/kejlor/PocketWeather/blob/master/Images/tests.png" width="300">
+</p>
+
+**Stack**
+- UIKit
+- SFSymbols
+- Unit tests
+- Notifications
+- Fetching API data
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kejlor)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/BartDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bartosz-wojtkowiak-7659311a3/)
