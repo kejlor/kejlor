@@ -105,8 +105,6 @@ The ChessClock app allows users to play chess with their pratner without bringin
   <img src="https://github.com/kejlor/ChessClock/blob/main/Images/chessClock.gif" width="300"/>
   <img src="https://github.com/kejlor/ChessClock/blob/main/Images/home.png" width="300">
   <img src="https://github.com/kejlor/ChessClock/blob/main/Images/selection.png" width="300">
-  <img src="https://github.com/kejlor/PocketWeather/blob/master/Images/weatherView.png" width="300">
-  <img src="https://github.com/kejlor/PocketWeather/blob/master/Images/tests.png" width="300">
 </p>
 
 **Stack**
