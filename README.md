@@ -112,4 +112,21 @@ The ChessClock app allows users to play chess with their pratner without bringin
 - Timer
 - Date component formatter
 
+### MeditationWatch
+The MeditationWatch app allows users to check their stress levels calculated from heart's beat per minute. All the data is calculated
+from the HeatlhKit.
+
+<p align="center">
+  <img src="https://github.com/kejlor/MeditationWatch/blob/master/Images/screen.png" width="300"/>
+  <img src="https://github.com/kejlor/MeditationWatch/blob/master/Images/40bpm.gif" width="300">
+  <img src="https://github.com/kejlor/MeditationWatch/blob/master/Images/70bpm.gif" width="300">
+  <img src="https://github.com/kejlor/MeditationWatch/blob/master/Images/84bpm.gif" width="300">
+  <img src="https://github.com/kejlor/MeditationWatch/blob/master/Images/90bpm.gif" width="300">
+</p>
+
+**Stack**
+- SwiftUI
+- WatchOS
+- HealthKit
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kejlor)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/BartDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bartosz-wojtkowiak-7659311a3/)
