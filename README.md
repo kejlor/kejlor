@@ -129,4 +129,23 @@ from the HeatlhKit.
 - WatchOS
 - HealthKit
 
+### MarvelApp
+MarvelApp allows user to browse comic list and search for particular titles in another view. User can tap into desired comic entry and check detail information about it.
+
+<p align="center">
+  <img src="https://github.com/kejlor/MarvelApp/blob/master/Images/browser.png" width="300"/>
+  <img src="https://github.com/kejlor/MarvelApp/blob/master/Images/browseEmpty.png" width="300"/>
+  <img src="https://github.com/kejlor/MarvelApp/blob/master/Images/detail1.png" width="300"/>
+  <img src="https://github.com/kejlor/MarvelApp/blob/master/Images/detail2.png" width="300"/>
+  <img src="https://github.com/kejlor/MarvelApp/blob/master/Images/home.png" width="300"/>
+  <img src="https://github.com/kejlor/MarvelApp/blob/master/Images/browse.gif" width="300"/>
+  <img src="https://github.com/kejlor/MarvelApp/blob/master/Images/list.gif" width="300"/>
+</p>
+
+**Stack**
+- SwiftUI
+- SFSymbols
+- Combine
+- Network Calls
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kejlor)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/BartDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bartosz-wojtkowiak-7659311a3/)
