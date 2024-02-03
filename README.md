@@ -1,14 +1,13 @@
 ![I am a Junior iOS Developer](banner.png)
 #### Junior iOS Developer
 - I'm from Poland 🇵🇱
-- I've worked as Junior Java Software Developer for 1 year 💻
-- Right now I'm learning SwiftUI and I'm loving it 🥰
+- I've worked as Junior Java Software Developer for 1 year 💻, currently working as iOS developer
 - Funfacts: I like to read fantasy books, learn japanese characters and watch football 😁
 
-Skills: Swift / SwiftUI / Java / HTML / CSS
+Skills: Swift / SwiftUI / UIKit
 
 - 🔭 I’m currently working on my own projects. 
-- 🌱 I’m currently learning SwiftUI and Core Data. 
+- 🌱 I’m currently learning SwiftUI and SwiftData.
 - 😄 Pronouns: He/him. 
 
 ### Stats
