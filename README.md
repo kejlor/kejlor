@@ -1,7 +1,7 @@
 ![I am a Junior iOS Developer](banner.png)
 #### Junior iOS Developer
 - I'm from Poland 🇵🇱
-- I've worked as Junior Java Software Developer for 1 year 💻, currently working as iOS developer with 2 years of commercial experience.
+- I've worked as Junior Java Software Developer for 1 year 💻, currently working as iOS developer with 2 years of commercial experience
 - Funfacts: I like to read fantasy books, learn japanese characters and watch football 😁
 
 Skills: Swift / SwiftUI / UIKit
