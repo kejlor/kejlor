@@ -16,7 +16,7 @@ Tools: Xcode, Git, Swift Package Manager, CocoaPods, Bitrise, Jira, Jira, XcodeG
 <br/><br/>
 
 # Contact
-[![Mail Badge](https://img.shields.io/badge/-jakubkociucki.dev-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:bartoszwojtkowiak.dev@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-bartoszwojtkowiak.dev-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:bartoszwojtkowiak.dev@gmail.com)
 ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white(www.linkedin.com/in/bartosz-wojtkowiak-7659311a3))
 <br/><br/>
 
